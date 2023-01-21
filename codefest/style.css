@@ -1,0 +1,29 @@
+.header{
+    color: ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 650px;
+}
+.content-space{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(236, 126, 230);
+    color: antiquewhite;
+}
+.nav-box{
+    float:left;
+    list-style-type: none;
+    padding-left: 50px;
+    margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.nav.{
+    background-color:antiquewhite;
+}
+.clear{
+    clear: both;
+}
+.snake-game{
+    height: 300px;
+}
+.nav link{
+    color: antiquewhite;
+}
